@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-This privacy policy governs your use of the TCMB Bugün app that was created by Mehmet Bayram. The Application lets you to get the daily exchange rates that released by TCMB.
+This privacy policy governs your use of the TCMB Bugün app that was created by Mehmet Bayram. The Application lets you to get the daily exchange rates that released by TCMB. Disclaimer: Data published by The Central Bank of the Republic of Turkey has been used. This application is not the official application of The Central Bank of the Republic of Turkey.
 
 ### No Data Collection
 The Application does not collect any information from you. Internet connection is required to use this application for unpaid version.
