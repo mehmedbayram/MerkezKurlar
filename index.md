@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-This privacy policy governs your use of the TCMB Bugün app that was created by Mehmet Bayram. The Application lets you to get the daily exchange rates that released by TCMB.
+This privacy policy governs your use of the Merkez Kurlar app that was created by Mehmet Bayram. The Application lets you to get the daily exchange rates that released by The Central Bank of the Republic of Turkey.
 
 Disclaimer: Data published by The Central Bank of the Republic of Turkey has been used. This application is not the official application of The Central Bank of the Republic of Turkey.
 
@@ -11,6 +11,6 @@ The Application does not collect any information from you. Internet connection i
 The developer may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. The developer will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
 ### Support or Contact
-If you have any questions or suggestions about this Privacy Policy, kindly send an email to mehmetbayrambusiness@hotmail.com with the subject line "TCMB Bugün Privacy Policy".
+If you have any questions or suggestions about this Privacy Policy, kindly send an email to mehmetbayrambusiness@hotmail.com with the subject line "Merkez Kurlar Privacy Policy".
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
